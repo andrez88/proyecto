@@ -21,7 +21,6 @@ public class MenuTest extends javax.swing.JFrame {
     public MenuTest() {
         initComponents();
         setVisible(true);
-        jTable1.setTableHeader(null);
         setLocationRelativeTo(null);
     }
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
